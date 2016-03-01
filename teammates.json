@@ -1,0 +1,74 @@
+{
+  "teammates": [
+    {
+      "id": 1,
+      "name": "Charlie",
+      "birthdate": "1988-10-17",
+      "position": "DevOps",
+      "startdate": "2015-07-06"
+    },
+    {
+      "id": 2,
+      "name": "Eman",
+      "birthdate": "1986-09-16",
+      "position": "Front End",
+      "startdate": "2015-05-12"
+    },
+    {
+      "id": 3,
+      "name": "James",
+      "birthdate": "1983-03-02",
+      "position": "Director",
+      "startdate": "2008-09-16"
+    },
+    {
+      "id": 4,
+      "name": "Jason",
+      "birthdate": "1980-09-30",
+      "position": "Back End",
+      "startdate": "2005-03-01"
+    },
+    {
+      "id": 5,
+      "name": "Kyle",
+      "birthdate": "1985-04-10",
+      "position": "Full Stack",
+      "startdate": "2013-11-11"
+    },
+    {
+      "id": 6,
+      "name": "Mark",
+      "birthdate": "1979-07-13",
+      "position": "Director",
+      "startdate": "2007-10-23"
+    },
+    {
+      "id": 7,
+      "name": "Nichole",
+      "birthdate": "1988-10-15",
+      "position": "Back End",
+      "startdate": "2015-03-16"
+    },
+    {
+      "id": 8,
+      "name": "Niles",
+      "birthdate": "1983-12-30",
+      "position": "Back End",
+      "startdate": "2014-04-25"
+    },
+    {
+      "id": 9,
+      "name": "Tim",
+      "birthdate": "1991-10-15",
+      "position": "Full Stack",
+      "startdate": "2014-06-28"
+    },
+    {
+      "id": 10,
+      "name": "Travis",
+      "birthdate": "1986-02-09",
+      "position": "Front End",
+      "startdate": "2015-04-15"
+    }
+  ]
+}

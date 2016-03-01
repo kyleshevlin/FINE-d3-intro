@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: 'Lato', sans-serif;
+  font-size: 100%;
+}
+
+body {
+  background: #ececec;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1 {
+  margin: 1em 0;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+svg {
+  font-size: 75%;
+}
+
+.node-rect {
+  fill: #a0ac39;
+  opacity: .85;
+}
+
+.axis-group path {
+  fill: none;
+  stroke: black;
+}
+.axis-group line {
+  stroke: black;
+}
+
+form {
+  margin-bottom: 1em;
+}
+form input {
+  margin-right: 5px;
+}
